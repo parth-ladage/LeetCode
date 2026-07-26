@@ -20,6 +20,7 @@ LeetCode Solutions in python
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth-ladage/LeetCode-Python/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/parth-ladage/LeetCode-Python/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,4 +46,21 @@ LeetCode Solutions in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/0027-remove-element/) | Easy |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 <!---LeetCode Topics End-->
