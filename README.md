@@ -27,9 +27,11 @@ LeetCode Solutions in python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/parth-ladage/LeetCode-Python/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0189-rotate-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@ LeetCode Solutions in python
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/0027-remove-element/) | Easy |
+| [0189-rotate-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0189-rotate-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parth-ladage/LeetCode-Python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Binary Search
