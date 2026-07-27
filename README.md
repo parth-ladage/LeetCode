@@ -46,6 +46,7 @@ LeetCode Solutions in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/0027-remove-element/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/parth-ladage/LeetCode-Python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
