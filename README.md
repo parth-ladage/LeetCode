@@ -32,6 +32,7 @@ LeetCode Solutions in python
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/parth-ladage/LeetCode-Python/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
@@ -51,6 +52,7 @@ LeetCode Solutions in python
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/0027-remove-element/) | Easy |
+| [0066-plus-one](https://github.com/parth-ladage/LeetCode-Python/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0189-rotate-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parth-ladage/LeetCode-Python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
