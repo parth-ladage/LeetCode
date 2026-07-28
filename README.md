@@ -55,6 +55,7 @@ LeetCode Solutions in python
 | [0066-plus-one](https://github.com/parth-ladage/LeetCode-Python/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0189-rotate-array/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/parth-ladage/LeetCode-Python/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/parth-ladage/LeetCode-Python/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 ## Binary Search
