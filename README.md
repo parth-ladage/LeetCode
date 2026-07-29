@@ -55,6 +55,7 @@ LeetCode Solutions in python
 | [0027-remove-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/parth-ladage/LeetCode-Python/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/parth-ladage/LeetCode-Python/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/parth-ladage/LeetCode-Python/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -79,4 +80,8 @@ LeetCode Solutions in python
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/parth-ladage/LeetCode-Python/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
