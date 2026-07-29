@@ -7,6 +7,7 @@ LeetCode Solutions in python
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/parth-ladage/LeetCode-Python/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parth-ladage/LeetCode-Python/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/parth-ladage/LeetCode-Python/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## String
@@ -51,6 +52,7 @@ LeetCode Solutions in python
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/parth-ladage/LeetCode-Python/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parth-ladage/LeetCode-Python/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/parth-ladage/LeetCode-Python/tree/main/0027-remove-element/) | Easy |
 | [0066-plus-one](https://github.com/parth-ladage/LeetCode-Python/tree/main/0066-plus-one/) | Easy |
